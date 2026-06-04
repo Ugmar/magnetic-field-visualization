@@ -1,0 +1,6 @@
+magpylib>=5.2.0
+PyQt6>=6.9.1
+black>=25.9.0
+flake8>=7.3.0
+isort>=7.0.0
+pyinstaller>=6.16.0
